@@ -65,13 +65,7 @@ A solid MERN app demonstrating modular routing, input validation, and end-to-end
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=talha&show_icons=true&theme=react&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talha&layout=compact&theme=react&hide_border=true" height="165" />
-</p>
 
----
 
 ### 🏆 Achievements
 - 🚀 Participated in the **NASA Space Apps Challenge 2024**  
@@ -79,21 +73,3 @@ A solid MERN app demonstrating modular routing, input validation, and end-to-end
 - 💡 Passionate about developing impactful and practical software solutions  
 
 ---
-
-### 💼 Connect With Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/talha" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
-  <a href="https://portfolio-link.com" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-black?logo=vercel&logoColor=white" /></a>
-  <a href="mailto:talha.email@example.com"><img src="https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white" /></a>
-</p>
-
----
-
-### 📈 Activity Overview
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=talha&theme=react-dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=talha&color=blue&style=flat-square" alt="Profile Views" />
-</p>
